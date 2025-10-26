@@ -1,0 +1,16 @@
+{
+  "name": "char-backend",
+  "version": "1.0.0",
+  "description": "Learning backend from char aur code - Youtube channel",
+  "keywords": [
+    "javascript",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Munsif Shaik",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
